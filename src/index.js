@@ -27,7 +27,7 @@ function handleSerachCountries(e) {
               <img
                 src="${flags.svg}" 
                 alt="${name}" 
-                width="120" 
+                width="140" 
                 height="80">
               <h1>${common}</h1>
               <ul >
